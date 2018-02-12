@@ -1,17 +1,11 @@
-public class myCarApp {
-    public static void main(String[] args) {
-        //engine
-        Engine engine = new Engine("1500 cc",
-                "V-TEC V4");
-
-        //car
-        Car car = new Car("Honda", "Black",
-                engine);
-
-        System.out.println(car.toString());
-
-        Car car1 = new Car("Honda", "Red", engine);
-        System.out.println(car1.toString());
-
-    }//main
-}//class
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+  </component>
+</module>
