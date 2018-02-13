@@ -1,4 +1,4 @@
-package oop.lab9;
+package oop_lab9;
 
 public class lab9 {
     public class myCarApp {
