@@ -1,7 +1,7 @@
 package oop_lab5;
 
-public class lab5 {
-//1.input Data from user
+public class inputdataarrey {
+    //1.input Data from user
 //2.find summation of data in array
 //3.find average value of data in array
 //4.fild maximum value of data in array
