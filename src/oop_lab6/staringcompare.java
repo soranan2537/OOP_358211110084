@@ -1,6 +1,6 @@
 package oop_lab6;
 
-public class stringcompar {
+public class staringcompare {
     public static void main(String[] args) {
         // compare String
         String str1 = "Hello";
